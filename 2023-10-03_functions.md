@@ -22,8 +22,8 @@ In partners or small groups, work through the following problems **by hand**. Ho
 
     | Call to `test` | `a` | `b` | `c` |
     | -------------- | --- | --- | --- |
-    | First call     |     |     |     |
-    | Second call    |     |     |     |
+    | First call     |  1  | 2   |  3  |
+    | Second call    |  2  |  1  |  10 |
 
 2. Trace the following program. Show the intermediate values assigned to each variable in `main` and `display`, then write the program output.
     ```python
